@@ -1,0 +1,15 @@
+{
+  "name": "tazovsky-skills",
+  "version": "1.1.0",
+  "description": "Claude Code skills collection by Tazovsky - R Shiny management, Codex CLI integration",
+  "author": {
+    "name": "Kamil Foltynski"
+  },
+  "keywords": [
+    "r-shiny",
+    "codex",
+    "code-review",
+    "brainstorming",
+    "openai"
+  ]
+}
