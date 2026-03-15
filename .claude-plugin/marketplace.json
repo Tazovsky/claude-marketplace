@@ -1,0 +1,20 @@
+{
+  "name": "tazovsky-marketplace",
+  "owner": {
+    "name": "Tazovsky"
+  },
+  "metadata": {
+    "description": "Claude Code skills collection by Tazovsky",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tazovsky-skills",
+      "source": {
+        "source": "github",
+        "repo": "Tazovsky/claude-marketplace"
+      },
+      "description": "R Shiny management, Codex CLI integration, and more"
+    }
+  ]
+}
